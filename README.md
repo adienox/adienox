@@ -1,4 +1,4 @@
-  <h1 align="center">Hi 👋, I'm Adwait</h1>
+<h1 align="center">Hi 👋, I'm Adwait</h1>
 <h3 align="center">Not afraid to learn something new!</h3>
 
 Hi, I'm **Adwait Adhikari**, also said as **adienox** on the web, an infatuated self-taught developer and a contract coder from Nepal. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take control within the experience, architecture, and code quality of the things I build.
@@ -12,9 +12,10 @@ I am also an open-source enthusiast and maintainer. Furthermore, I learned plent
 
 <h3 align="left">❤️ Languages</h3>
 <p align="left">
-  <img src="https://img.shields.io/badge/python-4584b6?style=for-the-badge&logo=python&logoColor=fff" alt="Python">
+  <img src="https://img.shields.io/badge/python-4584B6?style=for-the-badge&logo=python&logoColor=fff" alt="Python">
+  <img src="https://img.shields.io/badge/Bash-4EAA25.svg?style=for-the-badge&logo=GNU%20Bash&logoColor=323330" alt="Bash">
   <img src="https://img.shields.io/badge/go-007D9C.svg?style=for-the-badge&logo=go&logoColor=fff" alt="GoLang">
-  <img src="https://img.shields.io/badge/javascript-f7df1e.svg?style=for-the-badge&logo=javascript&logoColor=323330" alt="JavaScript">
+  <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=323330" alt="JavaScript">
 </p>
 
 <h3 align="left">📒 Learning</h3>
