@@ -8,7 +8,7 @@ I am also an open-source enthusiast and maintainer. Furthermore, I learned plent
 - 🔭 I’m currently working on **Personal projects, and also studying so I can get a job.**
 - ⚡ Fun fact **I'm lazy, but I'm always doing something.**
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/adienox/adienox/blob/master/code.gif?raw=true" width="500" height="320" />
 
 <h3 align="left">❤️ Languages</h3>
 <p align="left">
