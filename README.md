@@ -1,10 +1,16 @@
-<h1 align="center">Hi 👋, I'm Adwait</h1>
+  <h1 align="center">Hi 👋, I'm Adwait</h1>
 <h3 align="center">Not afraid to learn something new!</h3>
+
+Hi, I'm **Adwait Adhikari**, also said as **adienox** on the web, an infatuated self-taught developer and a contract coder from Nepal. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take control within the experience, architecture, and code quality of the things I build.
+
+I am also an open-source enthusiast and maintainer. Furthermore, I learned plenty from the open-source community and that I love how collaboration and knowledge sharing happened through open-source.
 
 - 🔭 I’m currently working on **Personal projects, and also studying so I can get a job.**
 - ⚡ Fun fact **I'm lazy, but I'm always doing something.**
 
-<h3 align="left">❤️ Langs</h3>
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
+<h3 align="left">❤️ Languages</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/python-4584b6?style=for-the-badge&logo=python&logoColor=fff" alt="Python">
   <img src="https://img.shields.io/badge/go-007D9C.svg?style=for-the-badge&logo=go&logoColor=fff" alt="GoLang">
