@@ -28,7 +28,6 @@ I am also an open-source enthusiast and maintainer. Furthermore, I learned plent
 
 <h3 align="left">🛠️ Tools</h3>
 <p align="left">
-  <img src="https://img.shields.io/badge/VSCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=fff" alt="VSCode">
   <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=fff" alt="NeoVim">
   <img src="https://img.shields.io/badge/git-F54D27.svg?style=for-the-badge&logo=git&logoColor=fff" alt="Git">
   <img src="https://img.shields.io/badge/github-121011.svg?style=for-the-badge&logo=github&logoColor=fff" alt="Github">
