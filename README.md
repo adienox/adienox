@@ -13,6 +13,7 @@ I am also an open-source enthusiast and maintainer. Furthermore, I learned plent
 <h3 align="left">❤️ Languages</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/python-4584B6?style=for-the-badge&logo=python&logoColor=fff" alt="Python">
+  <img src="https://img.shields.io/badge/c%20lang-123456?style=for-the-badge&logo=c&logoColor=A8B9CC" alt="C Lang">
   <img src="https://img.shields.io/badge/Bash-4EAA25.svg?style=for-the-badge&logo=GNU%20Bash&logoColor=323330" alt="Bash">
   <img src="https://img.shields.io/badge/go-007D9C.svg?style=for-the-badge&logo=go&logoColor=fff" alt="GoLang">
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=323330" alt="JavaScript">
