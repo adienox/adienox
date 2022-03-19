@@ -3,10 +3,10 @@
 
 Hi, I'm **Adwait Adhikari**, also said as **adienox** on the web, an infatuated self-taught developer and a contract coder from Nepal. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take control within the experience, architecture, and code quality of the things I build.
 
-I am also an open-source enthusiast and maintainer. Furthermore, I learned plenty from the open-source community and that I love how collaboration and knowledge sharing happened through open-source.
+I am also an open-source enthusiast and maintainer. Furthermore, I learned plenty from the open-source community, and I love how collaboration and knowledge sharing happened through open-source.
 
-- 🔭 I’m currently working on **Personal projects, and also studying so I can get a job.**
-- ⚡ Fun fact **I'm lazy, but I'm always doing something.**
+- 🔭 I am currently working on **Personal projects and also studying, so I can get a job.**
+- ⚡ Fun fact **I'm lazy, but always doing something.**
 
 <img align="right" alt="GIF" src="https://github.com/adienox/adienox/blob/main/code.gif?raw=true" width="500" height="320" />
 
