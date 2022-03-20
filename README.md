@@ -32,6 +32,7 @@ I am also an open-source enthusiast and maintainer. Furthermore, I learned plent
 <p align="left">
   <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=fff" alt="NeoVim">
   <img src="https://img.shields.io/badge/git-F54D27.svg?style=for-the-badge&logo=git&logoColor=fff" alt="Git">
+  <img src="https://img.shields.io/badge/logseq-262D3A.svg?style=for-the-badge&logo=lbry&logoColor=fff" alt="Git">
   <img src="https://img.shields.io/badge/github-121011.svg?style=for-the-badge&logo=github&logoColor=fff" alt="Github">
 </p>
 
