@@ -15,7 +15,6 @@ I am also an open-source enthusiast and maintainer. Furthermore, I learned plent
   <img src="https://img.shields.io/badge/python-4584B6?style=for-the-badge&logo=python&logoColor=fff" alt="Python">
   <img src="https://img.shields.io/badge/c%20lang-123456?style=for-the-badge&logo=c&logoColor=A8B9CC" alt="C Lang">
   <img src="https://img.shields.io/badge/Bash-4EAA25.svg?style=for-the-badge&logo=GNU%20Bash&logoColor=323330" alt="Bash">
-  <img src="https://img.shields.io/badge/go-007D9C.svg?style=for-the-badge&logo=go&logoColor=fff" alt="GoLang">
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=323330" alt="JavaScript">
 </p>
 
@@ -24,8 +23,7 @@ I am also an open-source enthusiast and maintainer. Furthermore, I learned plent
   <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=fff" alt="Rust">
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=fff" alt="TypeScript">
   <img src="https://img.shields.io/badge/react-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/react_native-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native">
-  <img src="https://img.shields.io/badge/redux-764ABC.svg?style=for-the-badge&logo=redux&logoColor=fff" alt="Redux">
+  <img src="https://img.shields.io/badge/solidity-363636.svg?style=for-the-badge&logo=solidity&logoColor=61DAFB" alt="Solidity">
 </p>
 
 <h3 align="left">🛠️ Tools</h3>
@@ -39,4 +37,5 @@ I am also an open-source enthusiast and maintainer. Furthermore, I learned plent
 <h3 align="left">😼 Contact</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/Adienox%234320-7289DA?style=for-the-badge&logo=discord&logoColor=fff" alt="Discord">
+  <img src="https://img.shields.io/badge/adwaitadk%40tuta.io-840010?style=for-the-badge&logo=tutanota&logoColor=fff" alt="Mail">
 </p>
