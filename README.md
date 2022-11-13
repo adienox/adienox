@@ -23,14 +23,13 @@ I am also an open-source enthusiast and maintainer. Furthermore, I learned plent
   <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=fff" alt="Rust">
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=fff" alt="TypeScript">
   <img src="https://img.shields.io/badge/react-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/solidity-363636.svg?style=for-the-badge&logo=solidity&logoColor=61DAFB" alt="Solidity">
 </p>
 
 <h3 align="left">🛠️ Tools</h3>
 <p align="left">
+  <img src="https://img.shields.io/badge/vscode-007ACC.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=fff" alt="VsCode">
   <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=fff" alt="NeoVim">
   <img src="https://img.shields.io/badge/git-F54D27.svg?style=for-the-badge&logo=git&logoColor=fff" alt="Git">
-  <img src="https://img.shields.io/badge/logseq-262D3A.svg?style=for-the-badge&logo=lbry&logoColor=fff" alt="Git">
   <img src="https://img.shields.io/badge/github-121011.svg?style=for-the-badge&logo=github&logoColor=fff" alt="Github">
 </p>
 
