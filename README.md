@@ -20,9 +20,9 @@ I am also an open-source enthusiast and maintainer. Furthermore, I learned plent
 
 <h3 align="left">📒 Learning</h3>
 <p align="left">
-  <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=fff" alt="Rust">
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=fff" alt="TypeScript">
   <img src="https://img.shields.io/badge/react-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/tailwind-127687.svg?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" alt"Tailwind">
 </p>
 
 <h3 align="left">🛠️ Tools</h3>
