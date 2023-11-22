@@ -5,5 +5,5 @@ Hi, I'm **Adwait Adhikari**, also said as **adienox** on the web, an infatuated 
 
 I am also an open-source enthusiast and maintainer. Furthermore, I learned plenty from the open-source community, and I love how collaboration and knowledge sharing happened through open-source.
 
-- 🔭 I am currently working on **Personal projects and also studying, so I can get a job.**
+- 🔭 I am currently working on **Personal projects and also studying.**
 - ⚡ Fun fact **I'm always learing something new.**
